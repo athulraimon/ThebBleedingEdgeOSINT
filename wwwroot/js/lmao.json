@@ -1,0 +1,134 @@
+{
+    "PROFILE_CONTAINER": {
+        "profile": {
+            "coverPhotos": {
+                "PROFILE": {
+                    "flathash": null,
+                    "isDefault": true,
+                    "url": "sampleurl"
+                }
+            },
+            "personId": "114491332172881226590",
+            "extendedData": {
+                "dynamiteData": {
+                    "presence": "UNKNOWN",
+                    "entityType": "PERSON",
+                    "dndState": "AVAILABLE",
+                    "customerId": ""
+                },
+                "gplusData": {
+                    "contentRestriction": "",
+                    "isEntrepriseUser": false
+                }
+            },
+            "names": {
+                "PROFILE": {
+                    "fullname": "hehe hehe",
+                    "firstName": "hehe",
+                    "lastName": "hehe"
+                }
+            },
+            "profilePhotos": {
+                "PROFILE": {
+                    "flathash": "00203e7e7e3e1c00",
+                    "isDefault": false,
+                    "url": "sampleurl"
+                }
+            },
+            "inAppReachability": {
+                "PROFILE": {
+                    "apps": [
+                        "Youtube",
+                        "Photos",
+                        "Kaboo",
+                        "Maps"
+                    ]
+                }
+            },
+            "sourceIds": {
+                "PROFILE": {
+                    "lastUpdated": "2024/02/28 08:54:38 (UTC)"
+                }
+            },
+            "profileInfos": {
+                "PROFILE": {
+                    "userTypes": [
+                        "GOOGLE_USER"
+                    ]
+                }
+            },
+            "emails": {
+                "PROFILE": {
+                    "value": "samplemail@gmail.com"
+                }
+            }
+        },
+        "play_games": null,
+        "maps": {
+            "photos": [],
+            "reviews": [
+                {
+                    "rating": 4,
+                    "location": {
+                        "cost_level": 3,
+                        "types": [
+                            "restaurant"
+                        ],
+                        "position": {
+                            "latitude": 13.0112483,
+                            "longitude": 77.5552597
+                        },
+                        "name": "Chili's American Grill & Bar",
+                        "tags": [
+                            "Tex Mex",
+                            "American",
+                            "Bar",
+                            "Mexican"
+                        ],
+                        "address": "Store R3 and R3 - A, Dr Rajkumar Rd, Rajaji Nagar, Subramanyanagar,2 State, Rajajinagar, Bengaluru, Karnataka 560055, India",
+                        "id": "0x3bae3d78a4772975:0x5a1e79d6a4ca543"
+                    },
+                    "comment": "",
+                    "date": "2021/01/15 15:32:14 (UTC)",
+                    "id": "ChdDSUhNMG9nS0VJQ0FnSUN5d01mRDNBRRAB"
+                },
+                {
+                    "rating": 4,
+                    "location": {
+                        "cost_level": 0,
+                        "types": [
+                            "shoppingcart"
+                        ],
+                        "position": {
+                            "latitude": 13.026266,
+                            "longitude": 77.60920999999999
+                        },
+                        "name": "Capital Hypermarket,",
+                        "tags": [
+                            "Supermarket"
+                        ],
+                        "address": "GVR Plaza, 2, LR Bande Rd, next to BESCOM office, Ambedkar Layout, RT Nagar, Shampura, Kaval Bairasandra, Bengaluru, Karnataka 560032, India",
+                        "id": "0x3bae170837df7201:0x11ca21889b62271d"
+                    },
+                    "comment": "",
+                    "date": "2020/01/12 11:11:35 (UTC)",
+                    "id": "ChZDSUhNMG9nS0VJQ0FnSURNcTVuSEx3EAE"
+                }
+            ],
+            "stats": {
+                "Reviews": 0,
+                "Ratings": 2,
+                "Photos": 0,
+                "Videos": 0,
+                "Captions": 0,
+                "Answers": 0,
+                "Edits": 0,
+                "Places added": 0,
+                "Roads added": 0,
+                "Facts checked": 0,
+                "Q&A": 0
+            }
+        },
+        "calendar": null
+    }
+}
